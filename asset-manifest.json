@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bhm-site/static/css/main.b17b5696.chunk.css",
-    "main.js": "/bhm-site/static/js/main.ab5b26e0.chunk.js",
-    "main.js.map": "/bhm-site/static/js/main.ab5b26e0.chunk.js.map",
+    "main.css": "/bhm-site/static/css/main.7aa6084c.chunk.css",
+    "main.js": "/bhm-site/static/js/main.17456015.chunk.js",
+    "main.js.map": "/bhm-site/static/js/main.17456015.chunk.js.map",
     "runtime-main.js": "/bhm-site/static/js/runtime-main.a48c96ea.js",
     "runtime-main.js.map": "/bhm-site/static/js/runtime-main.a48c96ea.js.map",
     "static/js/2.79eaeddd.chunk.js": "/bhm-site/static/js/2.79eaeddd.chunk.js",
     "static/js/2.79eaeddd.chunk.js.map": "/bhm-site/static/js/2.79eaeddd.chunk.js.map",
     "index.html": "/bhm-site/index.html",
-    "static/css/main.b17b5696.chunk.css.map": "/bhm-site/static/css/main.b17b5696.chunk.css.map",
+    "static/css/main.7aa6084c.chunk.css.map": "/bhm-site/static/css/main.7aa6084c.chunk.css.map",
     "static/js/2.79eaeddd.chunk.js.LICENSE.txt": "/bhm-site/static/js/2.79eaeddd.chunk.js.LICENSE.txt",
     "static/media/dosa.ba7ef0a2.jpg": "/bhm-site/static/media/dosa.ba7ef0a2.jpg",
     "static/media/hero_original.03c04aa3.jpg": "/bhm-site/static/media/hero_original.03c04aa3.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a48c96ea.js",
     "static/js/2.79eaeddd.chunk.js",
-    "static/css/main.b17b5696.chunk.css",
-    "static/js/main.ab5b26e0.chunk.js"
+    "static/css/main.7aa6084c.chunk.css",
+    "static/js/main.17456015.chunk.js"
   ]
 }
