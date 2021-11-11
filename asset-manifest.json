@@ -1,31 +1,39 @@
 {
   "files": {
-    "main.css": "/bhm-site/static/css/main.14cf8e78.chunk.css",
-    "main.js": "/bhm-site/static/js/main.4c73a49a.chunk.js",
-    "main.js.map": "/bhm-site/static/js/main.4c73a49a.chunk.js.map",
+    "main.css": "/bhm-site/static/css/main.e3c25305.chunk.css",
+    "main.js": "/bhm-site/static/js/main.74cad0d0.chunk.js",
+    "main.js.map": "/bhm-site/static/js/main.74cad0d0.chunk.js.map",
     "runtime-main.js": "/bhm-site/static/js/runtime-main.a48c96ea.js",
     "runtime-main.js.map": "/bhm-site/static/js/runtime-main.a48c96ea.js.map",
     "static/js/2.7559c545.chunk.js": "/bhm-site/static/js/2.7559c545.chunk.js",
     "static/js/2.7559c545.chunk.js.map": "/bhm-site/static/js/2.7559c545.chunk.js.map",
     "index.html": "/bhm-site/index.html",
-    "static/css/main.14cf8e78.chunk.css.map": "/bhm-site/static/css/main.14cf8e78.chunk.css.map",
+    "static/css/main.e3c25305.chunk.css.map": "/bhm-site/static/css/main.e3c25305.chunk.css.map",
     "static/js/2.7559c545.chunk.js.LICENSE.txt": "/bhm-site/static/js/2.7559c545.chunk.js.LICENSE.txt",
     "static/media/bhm_const updated.279b2531.pdf": "/bhm-site/static/media/bhm_const updated.279b2531.pdf",
+    "static/media/bhmgs.9e7dad2e.jpeg": "/bhm-site/static/media/bhmgs.9e7dad2e.jpeg",
+    "static/media/bhmp.d3d8f030.jpg": "/bhm-site/static/media/bhmp.d3d8f030.jpg",
     "static/media/cult.1d30babf.jpg": "/bhm-site/static/media/cult.1d30babf.jpg",
     "static/media/dosa.ba7ef0a2.jpg": "/bhm-site/static/media/dosa.ba7ef0a2.jpg",
+    "static/media/guest_stay.773fd554.pdf": "/bhm-site/static/media/guest_stay.773fd554.pdf",
     "static/media/hero.0c08cb1d.jpg": "/bhm-site/static/media/hero.0c08cb1d.jpg",
     "static/media/hero_original.03c04aa3.jpg": "/bhm-site/static/media/hero_original.03c04aa3.jpg",
     "static/media/house.3a9af60e.jpg": "/bhm-site/static/media/house.3a9af60e.jpg",
     "static/media/logo.1b5e76eb.jpg": "/bhm-site/static/media/logo.1b5e76eb.jpg",
     "static/media/maint.baf9ec32.jpg": "/bhm-site/static/media/maint.baf9ec32.jpg",
     "static/media/mess.6363e1ea.jpg": "/bhm-site/static/media/mess.6363e1ea.jpg",
+    "static/media/mess_rebate.93a4b043.pdf": "/bhm-site/static/media/mess_rebate.93a4b043.pdf",
+    "static/media/mess_security_refund.b1a86215.pdf": "/bhm-site/static/media/mess_security_refund.b1a86215.pdf",
+    "static/media/rail_concession.d9dce323.pdf": "/bhm-site/static/media/rail_concession.d9dce323.pdf",
     "static/media/sac.d0c9c759.jpg": "/bhm-site/static/media/sac.d0c9c759.jpg",
+    "static/media/self_study_course.7814da4e.pdf": "/bhm-site/static/media/self_study_course.7814da4e.pdf",
+    "static/media/semester_withdrawal.07e07259.pdf": "/bhm-site/static/media/semester_withdrawal.07e07259.pdf",
     "static/media/sports.d0c9c759.jpg": "/bhm-site/static/media/sports.d0c9c759.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a48c96ea.js",
     "static/js/2.7559c545.chunk.js",
-    "static/css/main.14cf8e78.chunk.css",
-    "static/js/main.4c73a49a.chunk.js"
+    "static/css/main.e3c25305.chunk.css",
+    "static/js/main.74cad0d0.chunk.js"
   ]
 }
