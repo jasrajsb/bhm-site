@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bhm-site/static/css/main.e3c25305.chunk.css",
-    "main.js": "/bhm-site/static/js/main.eddd01c4.chunk.js",
-    "main.js.map": "/bhm-site/static/js/main.eddd01c4.chunk.js.map",
+    "main.js": "/bhm-site/static/js/main.2a83234f.chunk.js",
+    "main.js.map": "/bhm-site/static/js/main.2a83234f.chunk.js.map",
     "runtime-main.js": "/bhm-site/static/js/runtime-main.a48c96ea.js",
     "runtime-main.js.map": "/bhm-site/static/js/runtime-main.a48c96ea.js.map",
     "static/js/2.7559c545.chunk.js": "/bhm-site/static/js/2.7559c545.chunk.js",
@@ -28,8 +28,8 @@
     "static/media/dosa.ba7ef0a2.jpg": "/bhm-site/static/media/dosa.ba7ef0a2.jpg",
     "static/media/guest_stay.773fd554.pdf": "/bhm-site/static/media/guest_stay.773fd554.pdf",
     "static/media/hero.0c08cb1d.jpg": "/bhm-site/static/media/hero.0c08cb1d.jpg",
-    "static/media/hero.28d1a9f4.jpg": "/bhm-site/static/media/hero.28d1a9f4.jpg",
-    "static/media/hero.3c29f201.jpg": "/bhm-site/static/media/hero.3c29f201.jpg",
+    "static/media/hero.874b2b36.jpg": "/bhm-site/static/media/hero.874b2b36.jpg",
+    "static/media/hero.fb7e2d51.jpg": "/bhm-site/static/media/hero.fb7e2d51.jpg",
     "static/media/hero_original.03c04aa3.jpg": "/bhm-site/static/media/hero_original.03c04aa3.jpg",
     "static/media/house.0114a00d.jpg": "/bhm-site/static/media/house.0114a00d.jpg",
     "static/media/house.1d0fddea.jpg": "/bhm-site/static/media/house.1d0fddea.jpg",
@@ -79,6 +79,7 @@
     "static/media/sac.351affd0.jpg": "/bhm-site/static/media/sac.351affd0.jpg",
     "static/media/sac.4329ec48.jpg": "/bhm-site/static/media/sac.4329ec48.jpg",
     "static/media/sac.74d61350.jpg": "/bhm-site/static/media/sac.74d61350.jpg",
+    "static/media/sac.75240cee.jpg": "/bhm-site/static/media/sac.75240cee.jpg",
     "static/media/sac.99376337.jpg": "/bhm-site/static/media/sac.99376337.jpg",
     "static/media/sac.d0c9c759.jpg": "/bhm-site/static/media/sac.d0c9c759.jpg",
     "static/media/sac.d513019a.jpg": "/bhm-site/static/media/sac.d513019a.jpg",
@@ -102,6 +103,6 @@
     "static/js/runtime-main.a48c96ea.js",
     "static/js/2.7559c545.chunk.js",
     "static/css/main.e3c25305.chunk.css",
-    "static/js/main.eddd01c4.chunk.js"
+    "static/js/main.2a83234f.chunk.js"
   ]
 }
