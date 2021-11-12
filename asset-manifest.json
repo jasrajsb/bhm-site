@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bhm-site/static/css/main.e3c25305.chunk.css",
-    "main.js": "/bhm-site/static/js/main.23726438.chunk.js",
-    "main.js.map": "/bhm-site/static/js/main.23726438.chunk.js.map",
+    "main.js": "/bhm-site/static/js/main.eddd01c4.chunk.js",
+    "main.js.map": "/bhm-site/static/js/main.eddd01c4.chunk.js.map",
     "runtime-main.js": "/bhm-site/static/js/runtime-main.a48c96ea.js",
     "runtime-main.js.map": "/bhm-site/static/js/runtime-main.a48c96ea.js.map",
     "static/js/2.7559c545.chunk.js": "/bhm-site/static/js/2.7559c545.chunk.js",
@@ -28,9 +28,11 @@
     "static/media/dosa.ba7ef0a2.jpg": "/bhm-site/static/media/dosa.ba7ef0a2.jpg",
     "static/media/guest_stay.773fd554.pdf": "/bhm-site/static/media/guest_stay.773fd554.pdf",
     "static/media/hero.0c08cb1d.jpg": "/bhm-site/static/media/hero.0c08cb1d.jpg",
-    "static/media/hero.f288fb8e.jpg": "/bhm-site/static/media/hero.f288fb8e.jpg",
+    "static/media/hero.28d1a9f4.jpg": "/bhm-site/static/media/hero.28d1a9f4.jpg",
+    "static/media/hero.3c29f201.jpg": "/bhm-site/static/media/hero.3c29f201.jpg",
     "static/media/hero_original.03c04aa3.jpg": "/bhm-site/static/media/hero_original.03c04aa3.jpg",
     "static/media/house.0114a00d.jpg": "/bhm-site/static/media/house.0114a00d.jpg",
+    "static/media/house.1d0fddea.jpg": "/bhm-site/static/media/house.1d0fddea.jpg",
     "static/media/house.24885dfb.jpg": "/bhm-site/static/media/house.24885dfb.jpg",
     "static/media/house.346b675d.jpg": "/bhm-site/static/media/house.346b675d.jpg",
     "static/media/house.3a9af60e.jpg": "/bhm-site/static/media/house.3a9af60e.jpg",
@@ -41,6 +43,8 @@
     "static/media/house.cec90c5a.jpg": "/bhm-site/static/media/house.cec90c5a.jpg",
     "static/media/house.ec5aae58.jpg": "/bhm-site/static/media/house.ec5aae58.jpg",
     "static/media/logo.1b5e76eb.jpg": "/bhm-site/static/media/logo.1b5e76eb.jpg",
+    "static/media/logo.c2eb4744.jpg": "/bhm-site/static/media/logo.c2eb4744.jpg",
+    "static/media/logo.eacecc80.jpg": "/bhm-site/static/media/logo.eacecc80.jpg",
     "static/media/maint.3244fd68.jpg": "/bhm-site/static/media/maint.3244fd68.jpg",
     "static/media/maint.4406ccec.jpg": "/bhm-site/static/media/maint.4406ccec.jpg",
     "static/media/maint.59a140fa.jpg": "/bhm-site/static/media/maint.59a140fa.jpg",
@@ -98,6 +102,6 @@
     "static/js/runtime-main.a48c96ea.js",
     "static/js/2.7559c545.chunk.js",
     "static/css/main.e3c25305.chunk.css",
-    "static/js/main.23726438.chunk.js"
+    "static/js/main.eddd01c4.chunk.js"
   ]
 }
